@@ -4,6 +4,7 @@ import io.onboard.userservice.RandomUtil;
 import io.onboard.userservice.domain.Authority;
 import io.onboard.userservice.domain.User;
 import io.onboard.userservice.repository.UserRepository;
+import io.onboard.userservice.security.SecurityUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
